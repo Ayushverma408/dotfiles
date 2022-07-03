@@ -1,12 +1,9 @@
 # Dotfiles
 
-------
 
 Dotfiles of my current i3-gaps, catpuccin setup. 
 
 Hello there!, I am new to ricing and this is my very first rice, its simple, laid back and limited by my current abilities. Making it public tho as it may possibly help someone else out there and that's worth it!
-
-------
 
 ## My setup
 
@@ -21,8 +18,6 @@ Hello there!, I am new to ricing and this is my very first rice, its simple, lai
 
 ## Screenshots
 
-------
-
 ![https://github.com/Ayushverma408/dotfiles/blob/main/rice%202.png?raw=true](https://github.com/Ayushverma408/dotfiles/blob/main/rice%202.png?raw=true)
 
 ![](https://github.com/Ayushverma408/dotfiles/blob/main/rice.png?raw=true)
@@ -30,8 +25,6 @@ Hello there!, I am new to ricing and this is my very first rice, its simple, lai
 
 
 ## Other Notes 
-
-------
 
 1. The colour scheme here is using catpuccin colour palette v0.1 not v0.2. 
 2. cmus is running default :colorscheme cyan
